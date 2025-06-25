@@ -1,2 +1,2 @@
 # numpy_practice
-Starting Practice libraries for ML
+Starting Practicing libraries for ML
